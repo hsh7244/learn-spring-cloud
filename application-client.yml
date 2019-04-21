@@ -1,5 +1,5 @@
 server:
-  name: test-profile
+  name: profile
   port: 7171
 
 spring: 
