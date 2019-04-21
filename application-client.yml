@@ -1,6 +1,6 @@
 server:
   name: test-profile
-  port: 7070
+  port: 7171
 
 spring: 
   profile: dev
