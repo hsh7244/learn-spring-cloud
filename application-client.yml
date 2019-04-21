@@ -3,6 +3,8 @@ server:
   port: 7171
 
 spring: 
-  profile: dev
+  profiles:
+    active:
+    - dev
   application: 
     name:  spring-config-client-dev
